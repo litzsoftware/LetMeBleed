@@ -1,2 +1,2 @@
-Status: Atualizando
+Status: Funcionando
 Risco de ban: Nenhum
